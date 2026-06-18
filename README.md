@@ -1,3 +1,22 @@
+# Expense Agent ADK
+
+My first AI Agent built using Google Agent Development Kit (ADK) and Gemini.
+
+## Features
+- Weather Tool
+- Current Time Tool
+- Tool Calling
+- Local ADK Playground
+
+## Tech Stack
+- Python
+- Google ADK
+- Gemini 2.5 Flash
+
+## Run
+
+```bash
+agents-cli playground
 # expense-agent
 
 Simple ReAct agent
